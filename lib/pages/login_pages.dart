@@ -1,7 +1,9 @@
 import 'package:flutter/material.dart';
 import 'dart:ui' as ui;
 
-import 'package:wealthguard/pages/signin.dart';
+import 'package:pages_of_projectc/pages/signin.dart';
+
+
 
 class loginpage extends StatefulWidget {
   const loginpage({super.key});
